@@ -1,5 +1,5 @@
 # Eduardo - Desenvolvedor Backend em formação
-Cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Backend utilizando Python e Django.
+Cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Backend utilizando Python e FastApi.
 
 ---
 
@@ -40,20 +40,11 @@ Cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Bac
 
 <img 
     align="left" 
-    alt="Django" 
-    title="Django"
+    alt="FastAPI" 
+    title="FastAPI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>
-
-<img 
- align="left" 
- alt="JavaScript" 
- title="JavaScript"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
 />
 
 <img 
@@ -63,6 +54,15 @@ Cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Bac
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="IA" 
+    title="Inteligência Artificial"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/color/48/artificial-intelligence.png"
 />
 
 <br>
