@@ -1,33 +1,22 @@
 # Eduardo - Desenvolvedor Backend em formação
-Cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Backend utilizando Python e FastApi.
+
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento backend. Atualmente, estudo **Python** e **FastAPI** e desenvolvo projetos práticos para aprofundar meus conhecimentos em APIs, bancos de dados e desenvolvimento web.
 
 ---
 
-### LinkedIn
+### Projeto em destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/eduardo-lopes7812/)
+#### [FastAPI — API REST](https://github.com/eduardolopes79/fastapi)
+
+Projeto em desenvolvimento para a construção de uma **API REST** com **Python**, **FastAPI** e **SQL**.
+
+**Tipo:** API REST  
+**Tecnologias:** Python · FastAPI · SQL  
+**Status:** Em desenvolvimento
 
 ---
 
-### Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+### Tecnologias e ferramentas
 
 <img 
     align="left" 
@@ -49,6 +38,33 @@ Cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Bac
 
 <img 
     align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -66,5 +82,9 @@ Cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Bac
 />
 
 <br>
-<br>
-<br>
+
+---
+
+### Contato
+
+Para acompanhar meus projetos e minha trajetória profissional, acesse meu [perfil no LinkedIn](https://www.linkedin.com/in/eduardo-lopes7812/).
