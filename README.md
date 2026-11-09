@@ -88,3 +88,6 @@ Projeto em desenvolvimento para a construção de uma **API REST** com **Python*
 ### Contato
 
 Para acompanhar meus projetos e minha trajetória profissional, acesse meu [perfil no LinkedIn](https://www.linkedin.com/in/eduardo-lopes7812/).
+
+<br>
+<br>
