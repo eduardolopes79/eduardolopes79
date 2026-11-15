@@ -1,6 +1,8 @@
 # Eduardo - Desenvolvedor Backend em formação
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento backend. Atualmente, estudo **Python** e **FastAPI** e desenvolvo projetos práticos para aprofundar meus conhecimentos em APIs, bancos de dados e desenvolvimento web.
+Estudante de **Análise e Desenvolvimento de Sistemas** (UNINASSAU), com foco em desenvolvimento backend. Atualmente, estudo **Python** e **FastAPI** e desenvolvo projetos práticos para aprofundar meus conhecimentos em APIs, bancos de dados e desenvolvimento web.
+
+🌐 **[Veja meu portfólio](https://eduardolopes79.github.io)** · 💼 **[LinkedIn](https://www.linkedin.com/in/eduardo-lopes7812/)**
 
 ---
 
@@ -82,12 +84,8 @@ Projeto em desenvolvimento para a construção de uma **API REST** com **Python*
 />
 
 <br>
-
----
-
-### Contato
-
-Para acompanhar meus projetos e minha trajetória profissional, acesse meu [perfil no LinkedIn](https://www.linkedin.com/in/eduardo-lopes7812/).
-
 <br>
 
+**Aprendendo agora:** SQLAlchemy · Docker · Fly.io
+
+<br>
