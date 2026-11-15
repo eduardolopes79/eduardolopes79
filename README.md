@@ -87,5 +87,3 @@ Projeto em desenvolvimento para a construção de uma **API REST** com **Python*
 <br>
 
 **Aprendendo agora:** SQLAlchemy · Docker · Fly.io
-
-<br>
