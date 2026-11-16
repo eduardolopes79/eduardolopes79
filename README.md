@@ -1,89 +1,109 @@
-# Eduardo - Desenvolvedor Backend em formação
+<div align="center">
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (UNINASSAU), com foco em desenvolvimento backend. Atualmente, estudo **Python** e **FastAPI** e desenvolvo projetos práticos para aprofundar meus conhecimentos em APIs, bancos de dados e desenvolvimento web.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header" alt="Banner" width="100%" />
 
-🌐 **[Veja meu portfólio](https://eduardolopes79.github.io)** · 💼 **[LinkedIn](https://www.linkedin.com/in/eduardo-lopes7812/)**
+<h1>Eduardo Lopes</h1>
+<h3>Backend Developer · Python &amp; FastAPI</h3>
+
+<br>
+
+<img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-2ea44f?style=flat-square&logo=checkmarx&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/Foco-Backend-0F2027?style=flat-square&logo=serverfault&logoColor=white" alt="Foco" />
+<img src="https://img.shields.io/badge/UNINASSAU-ADS-1f6feb?style=flat-square&logo=googlescholar&logoColor=white" alt="UNINASSAU" />
+<img src="https://komarev.com/ghpvc/?username=eduardolopes79&label=Visitas&color=38bdf8&style=flat-square" alt="Visitas" />
+
+</div>
+
+<br>
 
 ---
 
-### Projeto em destaque
+## 👨‍💻 &nbsp;Sobre mim
 
-#### [FastAPI — API REST](https://github.com/eduardolopes79/fastapi)
-
-Projeto em desenvolvimento para a construção de uma **API REST** com **Python**, **FastAPI** e **SQL**.
-
-**Tipo:** API REST  
-**Tecnologias:** Python · FastAPI · SQL  
-**Status:** Em desenvolvimento
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU e apaixonado por backend. Estou aprendendo **Python** e **FastAPI** criando projetos práticos, e busco minha primeira oportunidade na área.
 
 ---
 
-### Tecnologias e ferramentas
+## 🚀 &nbsp;Projeto em destaque
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<div align="center">
 
-<img 
-    align="left" 
-    alt="FastAPI" 
-    title="FastAPI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-/>
+### 📦 [FastAPI — API REST](https://github.com/eduardolopes79/fastapi)
 
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
+*API construída com **Python**, **FastAPI** e **SQL**, para praticar o ciclo completo de um backend: rotas, validação, persistência e deploy.*
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-orange?style=flat-square)
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+</div>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+| Etapa | Descrição | Situação |
+|:---:|---|:---:|
+| 🧱 | Estrutura inicial com FastAPI | ✅ |
+| 🔁 | Rotas CRUD (criar, listar, atualizar, remover) | 🔄 |
+| 🛡️ | Validação de dados com Pydantic | 🔄 |
+| 🗃️ | Persistência com SQLAlchemy | 🔄 |
+| 🐳 | Containerização com Docker | 📅 |
+| ☁️ | Deploy no Fly.io | 📅 |
 
-<img 
-    align="left" 
-    alt="IA" 
-    title="Inteligência Artificial"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://img.icons8.com/color/48/artificial-intelligence.png"
-/>
+---
+
+## 🛠️ &nbsp;Stack e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,html,css&theme=dark" alt="Skills" />
+
+<br><br>
+
+| Categoria | Tecnologias |
+|:---:|:---|
+| **Backend** | Python · FastAPI |
+| **Banco de dados** | SQL · PostgreSQL |
+| **Front-end (básico)** | HTML · CSS |
+| **Ferramentas** | Git · GitHub |
+| **Aprendendo agora** | SQLAlchemy · Docker · Fly.io |
+
+</div>
+
+---
+
+## 📊 &nbsp;Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=eduardolopes79&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="165" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolopes79&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
 <br>
+
+<img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardolopes79&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+## 🤝 &nbsp;Vamos conversar?
+
+<div align="center">
+
+Aberto a **networking**, **troca de conhecimento** e **oportunidades de estágio ou júnior** em backend.
+
 <br>
 
-**Aprendendo agora:** SQLAlchemy · Docker · Fly.io
+<a href="https://www.linkedin.com/in/eduardo-lopes7812/">
+  <img src="https://img.shields.io/badge/Falar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://eduardolopes79.github.io">
+  <img src="https://img.shields.io/badge/Ver%20portf%C3%B3lio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+</a>
+
+<br><br>
+
+⭐ *Gostou de algum projeto? Deixa uma estrela no repositório!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Rodapé" width="100%" />
+
+</div>
