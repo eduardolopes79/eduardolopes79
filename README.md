@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header" alt="Banner" width="100%" />
 
 <h1>Eduardo Lopes</h1>
-<h3>Backend Developer · Python &amp; FastAPI</h3>
+<h3>Desenvolvedor Backend</h3>
 
 <br>
 
@@ -44,7 +44,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU e apaix
 | 🧱 | Estrutura inicial com FastAPI | ✅ |
 | 🔁 | Rotas CRUD (criar, listar, atualizar, remover) | 🔄 |
 | 🛡️ | Validação de dados com Pydantic | 🔄 |
-| 🗃️ | Persistência com SQLAlchemy | 🔄 |
+| 🗃️ | SQLAlchemy | 🔄 |
 | 🐳 | Containerização com Docker | 📅 |
 | ☁️ | Deploy no Fly.io | 📅 |
 
