@@ -74,9 +74,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU e apaix
 
 <div align="center">
 
-<img height="165" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=eduardolopes79&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="165" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolopes79&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
 <br>
 
 <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardolopes79&theme=tokyonight&hide_border=true&border_radius=12" />
