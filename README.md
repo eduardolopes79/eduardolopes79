@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-3fd0b8?style=flat-square&labelColor=0d3b33" alt="Status: aberto a oportunidades" />
+<img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-14917f?style=flat-square&labelColor=0d3b33" alt="Status: aberto a oportunidades" />
 <img src="https://img.shields.io/badge/Foco-Backend-1fa58f?style=flat-square&labelColor=0d3b33" alt="Foco: Backend" />
 <img src="https://img.shields.io/badge/UNINASSAU-ADS-0b7a6b?style=flat-square&labelColor=0d3b33" alt="UNINASSAU, ADS" />
 <img src="https://komarev.com/ghpvc/?username=eduardolopes79&label=Visitas&color=3fd0b8&labelColor=0d3b33&style=flat-square" alt="Visitas" />
@@ -30,7 +30,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU e sou u
 <img src="https://img.shields.io/badge/Python-0d3b33?style=flat-square&logo=python&logoColor=3fd0b8" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-0d3b33?style=flat-square&logo=fastapi&logoColor=3fd0b8" alt="FastAPI" />
 <img src="https://img.shields.io/badge/SQLAlchemy-0d3b33?style=flat-square&logo=sqlalchemy&logoColor=3fd0b8" alt="SQLAlchemy" />
-<img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-3fd0b8?style=flat-square&labelColor=0d3b33" alt="Status: em desenvolvimento" />
+<img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-14917f?style=flat-square&labelColor=0d3b33" alt="Status: em desenvolvimento" />
 
 <br><br>
 
@@ -89,7 +89,7 @@ Aberto a **networking**, **troca de conhecimento** e **oportunidades de estágio
   <img src="https://img.shields.io/badge/Falar%20no%20LinkedIn-0d3b33?style=for-the-badge&logo=linkedin&logoColor=3fd0b8" alt="LinkedIn" />
 </a>
 <a href="https://eduardolopes79.github.io">
-  <img src="https://img.shields.io/badge/Ver%20portf%C3%B3lio-3fd0b8?style=for-the-badge&logo=googlechrome&logoColor=0d3b33" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/Ver%20portf%C3%B3lio-0b7a6b?style=for-the-badge&logo=googlechrome&logoColor=0d3b33" alt="Portfólio" />
 </a>
 
 <br><br>
