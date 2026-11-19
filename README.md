@@ -20,7 +20,7 @@
 
 ## 👨‍💻 &nbsp;Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU e apaixonado por backend. Estou aprendendo **Python** e **FastAPI** criando projetos práticos, e busco minha primeira oportunidade na área.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU e sou um desenvolvedor backend. Estou aprendendo **Python** e **FastAPI** criando projetos práticos, e busco minha primeira oportunidade na área.
 
 ---
 
