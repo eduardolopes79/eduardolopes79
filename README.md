@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header" alt="Banner" width="100%" />
@@ -30,7 +31,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU e sou u
 
 ### 📦 [FastAPI — API REST](https://github.com/eduardolopes79/fastapi)
 
-*API construída com **Python**, **FastAPI** e **SQL**, para praticar o ciclo completo de um backend: rotas, validação, persistência e deploy.*
+*API construída com **Python**, **FastAPI** e **SQLAlchemy**, para praticar o ciclo completo de um backend: rotas, validação, persistência e deploy.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -61,10 +62,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU e sou u
 | Categoria | Tecnologias |
 |:---:|:---|
 | **Backend** | Python · FastAPI |
-| **Banco de dados** | SQL · PostgreSQL |
+| **Banco de dados** | PostgreSQL · SQLAlchemy |
 | **Front-end (básico)** | HTML · CSS |
 | **Ferramentas** | Git · GitHub |
-| **Aprendendo agora** | SQLAlchemy · Docker · Fly.io |
+| **Aprendendo agora** | Docker · Fly.io |
 
 </div>
 
