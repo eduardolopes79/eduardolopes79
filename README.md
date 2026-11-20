@@ -5,8 +5,6 @@
 <br>
 
 <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-14917f?style=flat-square&labelColor=0d3b33" alt="Status: aberto a oportunidades" />
-<img src="https://img.shields.io/badge/Foco-Backend-1fa58f?style=flat-square&labelColor=0d3b33" alt="Foco: Backend" />
-<img src="https://img.shields.io/badge/UNINASSAU-ADS-0b7a6b?style=flat-square&labelColor=0d3b33" alt="UNINASSAU, ADS" />
 
 </div>
 
