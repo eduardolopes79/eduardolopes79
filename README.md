@@ -82,6 +82,9 @@ Aberto a **networking**, **troca de conhecimento** e **oportunidades de estágio
 
 <br>
 
+<a href="mailto:eduardolopesgoncalves88@gmail.com">
+  <img src="https://img.shields.io/badge/Enviar%20e--mail-0d3b33?style=for-the-badge&logo=gmail&logoColor=3fd0b8" alt="Enviar e-mail" />
+</a>
 <a href="https://www.linkedin.com/in/eduardo-lopes7812/">
   <img src="https://img.shields.io/badge/Falar%20no%20LinkedIn-0d3b33?style=for-the-badge&logo=linkedin&logoColor=3fd0b8" alt="LinkedIn" />
 </a>
