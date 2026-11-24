@@ -35,7 +35,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU e sou u
 |:---:|---|:---:|
 | 🧱 | Estrutura inicial com FastAPI | ✅ |
 | 🔁 | Rotas CRUD (criar, listar, atualizar, remover) | 🔄 |
-| 🛡️ | Validação de dados com Pydantic | 🔄 |
+| 🛡️ | Validação de dados com Pydantic | ✅ |
 | 🗃️ | SQLAlchemy | 🔄 |
 | 🐳 | Containerização com Docker | 📅 |
 | ☁️ | Deploy no Fly.io | 📅 |
